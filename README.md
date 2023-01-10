@@ -1,2 +1,2 @@
-# Longest-Common-Subsequence
-a class to find the longest common subsequence between two strings/charachter arrays written in java
+# Longest Common Subsequence
+Java program that finds the Longest Common Subsequence between two input strings and prints the length and the sequence itself.
